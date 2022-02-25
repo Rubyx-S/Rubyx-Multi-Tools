@@ -1,11 +1,9 @@
 ## 🎉 Se você abriu esse arquivo com certeza deve estar com dúvidas / 🎉 Open Src
-### caso você estiver com duvida entre no meu discord
-﹒[Servidor Discord](https://discord.gg/ej7BRcb2T3)
 
 ## 🎉 Video para te ajudar a usar.
-﹒[Youtube Video](https://youtu.be/vw2w-xhnTqA)
+﹒[Youtube Video](https://youtu.be/kxyonibc_D8)
 
-![image](https://cdn.discordapp.com/attachments/924702871948255246/926356654042279936/unknown.png)
+![image](https://cdn.discordapp.com/attachments/946637730316705844/946689040051228712/Screenshot_31.png)
 
 **De início esta ferramenta requer o node.js e python instalado
 você pode notar que na maioria as opções da ferramenta a [Requer Python] algo do tipo já o restante requerer apenas node.js
